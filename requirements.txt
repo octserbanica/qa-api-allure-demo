@@ -1,0 +1,6 @@
+
+pytest
+requests~=2.32.3
+allure-pytest
+
+allure-python-commons~=2.14.0
